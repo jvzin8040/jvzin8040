@@ -1,22 +1,33 @@
-## Opa,blz? Eu sou João Vitor, mas pode me chamar de Jv ✌️
+#
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=200&size=30&duration=7000&pause=2000&center=true&vCenter=true&width=1200&height=70&lines=%E2%80%A2+Welcome!+I%E2%80%99m+Jvzin%2C+feel+free+to+look+around!+%E2%9C%8C%EF%B8%8F+%E2%80%A2" alt="https://git.io/typing-svg" /></a>
+
+#
+
+
+<div align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=holi&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420"
+      alt="GitHub stats"
+      style="width: 43%; min-width: 300px;"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=holi&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360"
+      alt="Most Used Languages"
+      style="width: 42%; min-width: 280px;"
+    />
+  </div>
+</div>
+
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvzin8040/jvzin8040/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvzin8040/jvzin8040/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvzin8040/jvzin8040/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jvzin8040/jvzin8040/output/github-contribution-grid-snake.svg">
 </picture>
-<!--
-**jvzin8040/jvzin8040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
