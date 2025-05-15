@@ -1,3 +1,4 @@
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=200&size=30&duration=7000&pause=2000&center=true&vCenter=true&width=1200&height=70&lines=%E2%80%A2+Welcome!+I%E2%80%99m+Jvzin%2C+feel+free+to+look+around!+%E2%9C%8C%EF%B8%8F+%E2%80%A2" alt="https://git.io/typing-svg" /></a>
 
 #
