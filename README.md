@@ -37,9 +37,9 @@
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=holi&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" />
       <source media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=default&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" />
+        srcset="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=shadow_blue&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" />
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=default&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" 
+        src="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=shadow_blue&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" 
         alt="GitHub stats" style="width: 100%;" />
     </picture>
   <!-- Card de linguagens com troca automática de tema -->
@@ -47,9 +47,9 @@
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=holi&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360" />
       <source media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=default&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360" />
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=shadow_blue&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360" />
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=default&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=shadow_blue&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360" 
         alt="Most Used Languages" style="width: 100%;" />
     </picture>
   </div>
