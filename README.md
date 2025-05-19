@@ -32,18 +32,27 @@
   <h3>* GitHub Stats *</h3>
   <br>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=holi&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420"
-      alt="GitHub stats"
-      style="width: 43%; min-width: 300px;"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=holi&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360"
-      alt="Most Used Languages"
-      style="width: 42%; min-width: 280px;"
-    />
+    <!-- Card de stats com troca automática de tema -->
+    <picture style="width: 43%; min-width: 300px;">
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=holi&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" />
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=default&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=default&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" 
+        alt="GitHub stats" style="width: 100%;" />
+    </picture>
+  <!-- Card de linguagens com troca automática de tema -->
+    <picture style="width: 42%; min-width: 280px;">
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=holi&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360" />
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=default&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=default&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360" 
+        alt="Most Used Languages" style="width: 100%;" />
+    </picture>
   </div>
-</div>
 
 #
 
