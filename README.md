@@ -33,7 +33,6 @@
   <h3>* GitHub Stats *</h3>
   <br>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <!-- Card de stats com troca automática de tema -->
     <picture style="width: 43%; min-width: 300px;">
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=holi&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" />
