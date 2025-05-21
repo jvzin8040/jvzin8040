@@ -4,7 +4,8 @@
 
 #
 
-<h3 align="center">My Stack</h3>
+<h3 align="center">* My Stack *</h3>
+<br>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <img width="16" />
@@ -42,7 +43,6 @@
         src="https://github-readme-stats.vercel.app/api?username=jvzin8040&theme=shadow_blue&show_icons=true&hide_title=true&count_private=true&hide_rank=false&card_width=420" 
         alt="GitHub stats" style="width: 100%;" />
     </picture>
-  <!-- Card de linguagens com troca automática de tema -->
     <picture style="width: 42%; min-width: 280px;">
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzin8040&theme=holi&layout=compact&langs_count=4&hide=html,scss,less&show_icons=true&count_private=true&card_width=360" />
@@ -64,6 +64,4 @@
   </picture>
 </div>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=508fcb&section=footer&textBg=false&descAlign=60"/>
-
